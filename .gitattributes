@@ -1,3 +1,3 @@
 workspace/** linguist-documentation=false
 workspace/** linguist-vendored=false
-workspace/**/*.javascript linguist-vendored
+*.javascript linguist-detectable=false
